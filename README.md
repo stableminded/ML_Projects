@@ -3,5 +3,6 @@
 
 
 # Sync-Interns-Tasks
-Tasks 1-4 for Sync Interns Internship are as mentionedin the above picture
+Tasks 1-4 for Sync Interns Internship are as mentioned in the above picture.
+
 I have successfully completed and shown all the tasks here.
