@@ -1,2 +1,1 @@
-# Sync-Interns-Tasks
-Tasks 1-4 for Sync Interns Internship
+Used Random Forest and Linear Regression to do the classic Boston House Price Prediction.
