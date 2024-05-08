@@ -1,2 +1,1 @@
-# Sync-Interns-Tasks
-Tasks 1-4 for Sync Interns Internship
+Created a Sign Language Classifier using Yolo Nas and Coco Detection Dataset.
