@@ -1,2 +1,1 @@
-# Sync-Interns-Tasks
-Tasks 1-4 for Sync Interns Internship
+Made a Face Mask Detector, uploaded all the relevant files which could be uploaded.
